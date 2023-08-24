@@ -1,0 +1,10 @@
+@@ This line starts with @@ but is not a hunk header @@
+line 2
+line 3
+
+@@ This line starts with @@ but is not a hunk header @@
+line 6
+line 7
+line 4
+line 8
+@@ This line starts with @@ but is not a hunk header @@
